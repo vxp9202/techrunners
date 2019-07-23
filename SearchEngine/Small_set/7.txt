@@ -1,0 +1,10 @@
+ Google’s VR prototypes give you charming and strangely expressive googly eyesHow best to represent a person in virtual space? A square with their avatar picture on it? Too Slack. A custom face crafted with a million sliders? Too Second..
+How best to represent a person in virtual space? A square with their avatar picture on it? Too Slack. A custom face crafted with a million sliders? Too Second Life. A 3D scan of their face? Too “Lawnmower Man.” Then perhaps… a cartoon representation of the headset the user is wearing, with giant googly eyes on the front? You, my friend, are crazy like a fox.
+
+The social aspect of VR is, if anything, the most underplayed aspect of the whole thing. The possibilities for storytelling are interesting, but the possibilities for changing how distant people interact are profound. But with the limitations we’re working with now, how can you create a convincing presence without dipping into the uncanny valley?
+Daydream developers found that going in the opposite direction from trying to visually replicate reality, unexpectedly, allowed the important part of reality to shine through. Disembodied headsets with big googly eyes on them may not exude charisma, but in motion they are instantly recognizable as human presences, and counterintuitively, the lack of details is, if anything, an improvement — sometimes inadequate detail is worse than none at all.
+
+
+The eyes, I think, just point in the direction your head is turned — a surprisingly effective shortcut. I could do without the bone-like appendages in the puzzle video, though.
+There are little things you can add, as well, like relative height so that someone you know is taller than you will appear so in VR, or dumb little personal details like that hat clipping through the mask.
+There’s lots more on this topic in the I/O talk on VR Prototyping from which those videos are taken. Yes, that means it’s old news, but it’s still fun.
