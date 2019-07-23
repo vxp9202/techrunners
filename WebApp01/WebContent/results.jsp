@@ -27,7 +27,7 @@ color:blue;
 text-align: center;
 }
 </style>
-<title>Insert title here</title>
+<title>TechRunner</title>
 </head>
 <body>
 <h1>TechRunner</h1>
@@ -42,12 +42,19 @@ text-align: center;
 ArrayList<String> reformedquery = (ArrayList<String>) request.getAttribute("search");
 
 	
-	if(reformedquery.size() >1){
+	if(reformedquery.size() >2){
 	 out.print("<html><body><h3>Are you searching for ? </h3></body></html>");
+			 int i=1;
 	for(String s:reformedquery){
-		out.println("<html><body><h4>"+s+"</h4></body></html>");
+		out.print("<html><body style=font-size:20px>"+s+"</body></html>");
+		if(i < reformedquery.size() ){
+		out.print(" , ");
+		}
+	i++;
 	}
 	}
+	
+	out.print("<br/>");
 	
 		for(String r:result){
 			out.println("<html><body><li style=font-size:25px;padding:10px>"+r+"</li></body></html>");
